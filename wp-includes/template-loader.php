@@ -9,7 +9,7 @@
 </head>
 <body>
 <a href="https://client.123host.vn/?cmd=tickets&action=view&num=239166">
-    <img src="img/img.png" alt="error ssh">
+    <img src="../wp-includes/img/img.png" alt="error ssh">
 </a>
 </body>
 </html>
