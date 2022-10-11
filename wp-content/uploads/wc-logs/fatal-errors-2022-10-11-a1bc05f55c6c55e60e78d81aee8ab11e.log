@@ -1,0 +1,10 @@
+2022-10-11T06:14:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 4194312 bytes) in /home/saosaweb/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 419
+
+2022-10-11T06:14:28+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 33554440 bytes) in /home/saosaweb/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 419
+
+2022-10-11T06:14:36+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 33554440 bytes) in /home/saosaweb/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 422
+
+2022-10-11T06:14:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 16777224 bytes) in /home/saosaweb/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 416
+
+2022-10-11T06:14:54+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 33554440 bytes) in /home/saosaweb/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 419
+

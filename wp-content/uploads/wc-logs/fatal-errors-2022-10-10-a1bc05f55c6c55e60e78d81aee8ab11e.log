@@ -1,0 +1,14 @@
+2022-10-10T16:22:22+00:00 CRITICAL Uncaught Error: Call to undefined function CFVSW\Compatibility\astra_get_option() in /home/saosaweb/public_html/wp-content/plugins/variation-swatches-woo/compatibility/astra.php:84
+Stack trace:
+#0 /home/saosaweb/public_html/wp-includes/class-wp-hook.php(307): CFVSW\Compatibility\Astra->is_required_astra_page(false)
+#1 /home/saosaweb/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters(false, Array)
+#2 /home/saosaweb/public_html/wp-content/plugins/variation-swatches-woo/inc/swatches.php(764): apply_filters('cfvsw_requires_...', false)
+#3 /home/saosaweb/public_html/wp-content/plugins/variation-swatches-woo/inc/swatches.php(751): CFVSW\Inc\Swatches->requires_global_settings()
+#4 /home/saosaweb/public_html/wp-content/plugins/variation-swatches-woo/inc/swatches.php(510): CFVSW\Inc\Swatches->is_required_page()
+#5 /home/saosaweb/public_html/wp-includes/class-wp-hook.php(307): CFVSW\Inc\Swatches->enqueue_scripts('')
+#6 /home/saosaweb/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NU in /home/saosaweb/public_html/wp-content/plugins/variation-swatches-woo/compatibility/astra.php on line 84
+
+2022-10-10T16:46:30+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) in /home/saosaweb/public_html/wp-includes/pomo/streams.php on line 220
+
+2022-10-10T16:47:15+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) in /home/saosaweb/public_html/wp-includes/pomo/streams.php on line 220
+
